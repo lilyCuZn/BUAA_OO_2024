@@ -1,0 +1,162 @@
+@startuml
+class DxFactor {
+- Expr dxExpr
++ Poly toPoly()
+}
+
+
+class ExprFactor {
+- Expr base
+- BigInteger index
++ Poly toPoly()
++ String toString()
+}
+
+
+class Variable {
+- String var
+- BigInteger index
++ BigInteger getIndex()
++ String toString()
++ Poly toPoly()
+}
+
+
+interface Factor {
++ Poly toPoly()
+}
+
+class Number {
+- BigInteger num
++ BigInteger getNum()
++ String toString()
++ Poly toPoly()
+}
+
+
+class Parser {
+- Lexer lexer
++ Expr parseExpr()
++ Term parseTerm(String)
++ Factor parseFactor()
+}
+
+
+class Poly {
+- ArrayList<Mono> monos
++ ArrayList<Mono> getMonos()
++ Poly createSame()
++ boolean equals(Object)
++ int hashCode()
++ void addMono(Mono)
++ Poly addPoly(Poly)
++ Poly multPoly(Poly)
++ Poly powPoly(BigInteger)
++ Poly negate()
++ Poly multNum(BigInteger)
++ Poly derive()
++ String toString()
+}
+
+
+class EeeFactor {
+- Factor expFactor
+- BigInteger index
++ Poly toPoly()
++ String toString()
+}
+
+
+class Processor {
+- ArrayList<DefFunc> defFuncs
++ String processFunc(String)
++ String processFormula(String)
++ String afterProcess(String)
++ String replaceExpAndDx(String)
++ String substituteFunc(String)
++ String mergeAddAndSub(String)
++ String dealWithPrefix(String)
++ String delForwardZero(String)
++ String dealAdd(String)
++ String addZero(String)
++ String adjust(String)
++ String delForAdd(String)
+}
+
+
+class Expr {
+- ArrayList<Term> terms
+- ArrayList<String> ops
+- int flag
++ ArrayList<Term> getTerms()
++ ArrayList<String> getOps()
++ void addTerm(Term)
++ Poly toPoly()
++ String toString()
+}
+
+
+class Mono {
+- BigInteger coef
+- BigInteger index
+- Poly exponent
++ boolean equals(Object)
++ int hashCode()
++ Poly derive()
++ Mono createSame()
++ BigInteger getIndex()
++ BigInteger getCoef()
++ void setCoef(BigInteger)
++ Poly getExponent()
++ boolean canMerge(Mono)
++ String toString()
+}
+
+
+class Lexer {
+- String input
+- int pos
+- String curToken
+- boolean isDigit
+- ArrayList<String> tokenList
+- String getNumber()
++ boolean start()
++ String getFactor()
++ void next()
++ String peek()
+}
+
+
+class MainClass {
++ {static} void main(String[])
+}
+
+class Term {
+- ArrayList<Factor> factors
+- int sign
++ ArrayList<Factor> getFactors()
++ void addFactor(Factor)
++ Poly toPoly()
++ String toString()
+}
+
+
+class DefFunc {
+- char name
+- int num
+- String[] varString
+- String funcContent
++ String substitute(String)
++ String replaceFunc(String[])
+}
+
+
+
+
+Factor <|.. DxFactor
+Factor <|.. ExprFactor
+Factor <|.. Variable
+Factor <|.. Number
+Factor <|.. EeeFactor
+Factor <|.. Expr
+@enduml

@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="src:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6821d69c-1bc6-41bf-9eb7-52265732fa93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/out/production/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天枢星/out/production/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天玑星/out/production/天玑星/src/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天璇星/out/production/天璇星/天璇星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天璇星/天璇星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/开阳星/out/production/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/洞明星/out/production/洞明星/洞明星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/洞明星/洞明星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/玉衡星/out/production/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/.idea/artifacts/src_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/Unit 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/advance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/out/production/src/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 2/src/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/Clear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/FuncProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/ConstFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/DeriveFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/ExpFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/ExprFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/MyResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/MyUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/VarFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/myutil/ZInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/artifacts/_jar/天权星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/Clear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/FuncProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/ConstFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/DeriveFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/ExpFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/ExprFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Int.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/MyResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/MyUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Op.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/Var.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/VarFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/myutil/ZInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/out/production/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/analysis/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/analysis/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Derivation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/ExpFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/ExprFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/FunctionMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/expr/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/artifacts/_jar/天枢星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/analysis/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/analysis/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Derivation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/ExpFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/ExprFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/FunctionMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/expr/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/poly/Mono.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/poly/Poly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/wrongdata/1.ans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/wrongdata/1.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/wrongdata/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/wrongdata/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/out/production/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/poly/Mono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/poly/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/wrongdata/1.ans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/wrongdata/1.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/wrongdata/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/wrongdata/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/Clear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/FuncProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/ConstFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/DeriveFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/ExpFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/ExprFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/MyResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/MyUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/VarFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/myutil/ZInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/artifacts/_jar/天玑星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/Clear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/FuncProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/Output.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/ConstFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/DeriveFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/ExpFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/ExprFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Int.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/MyResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/MyUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Op.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/Var.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/VarFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/myutil/ZInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/out/production/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/artifacts/_jar/开阳星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Basicterm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Derivative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Exponential.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Mono.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Num.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Token$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/out/production/开阳星/Var.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Basicterm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Derivative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Exponential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Mono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/src/Var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/wrongdata/1.ans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/wrongdata/1.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/wrongdata/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/wrongdata/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/libraries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/PreProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/SelfDefineFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/BasicElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Exponential.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/expr/Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/artifacts/_jar/摇光星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/out/production/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/out/production/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/PreProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/SelfDefineFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/BasicElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Exponential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/expr/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/artifacts/_jar/摇光星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/PreProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/SelfDefineFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/BasicElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Exponential.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/expr/Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/out/production/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/src/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/wrongdata/1.ans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/wrongdata/1.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/wrongdata/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/wrongdata/1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/wrongdata/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/Derivative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/SelfFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Exponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/expr/Variety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/artifacts/_jar/玉衡星.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/Derivative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/Lexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/SelfFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Exponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Expr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Factor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Index.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Poly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Term.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/expr/Variety.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/out/production/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/wrongdata/1.ans" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/wrongdata/1.diff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/wrongdata/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/wrongdata/1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/wrongdata/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 3-互测/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/src/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../production/src/untitled/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/artifacts/_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/out/production/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/out/production/玉衡星2/玉衡星2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/玉衡星2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../评测机/.idea/评测机.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Formula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Lexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Simplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Simplifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Factor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Term.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Term.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Term.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Term.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Formula.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Formula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/expr/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/expr/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/expr/Term.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/expr/Term.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/advance.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dJAJQFHHD5kfktRLjsMBZ6u7Ho" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/CuZn's/oo-面向对象/homework/Module 1/Unit 3/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="Lexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lexer" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Processor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Processor" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Processor" />
+        <item itemvalue="Application.Lexer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6821d69c-1bc6-41bf-9eb7-52265732fa93" name="Changes" comment="" />
+      <created>1709715734952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709715734952</updated>
+      <workItem from="1709715735976" duration="864000" />
+      <workItem from="1709905786677" duration="259000" />
+      <workItem from="1710244764805" duration="282000" />
+      <workItem from="1710338469289" duration="15613000" />
+      <workItem from="1710431855209" duration="5500000" />
+      <workItem from="1710685833157" duration="12573000" />
+      <workItem from="1710846238385" duration="991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Mono.java</url>
+          <line>26</line>
+          <properties class="Mono">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Parser.java</url>
+          <line>10</line>
+          <properties class="Parser" method="parseExpr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Mono.java</url>
+          <line>110</line>
+          <properties class="Mono" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DefFunc.java</url>
+          <line>27</line>
+          <properties class="DefFunc" method="substitute">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Parser.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Processor.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DefFunc.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MainClass.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

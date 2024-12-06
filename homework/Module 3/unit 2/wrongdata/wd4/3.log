@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.NullPointerException
+	at MyPerson.deleteLink(MyPerson.java:139)
+	at MyNetwork.modifyRelation(MyNetwork.java:249)
+	at com.oocourse.spec2.main.Runner.modifyRelation(Runner.java:299)
+	at com.oocourse.spec2.main.Runner.run(Runner.java:84)
+	at Main.main(Main.java:6)

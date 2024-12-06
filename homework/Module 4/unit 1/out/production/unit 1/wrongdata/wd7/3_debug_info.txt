@@ -1,0 +1,1 @@
+error in output '0' after input '[2024-01-23] OPEN': there are books left in bro after OPEN

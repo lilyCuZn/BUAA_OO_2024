@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.NullPointerException
+	at Library.tryQcs(Library.java:49)
+	at MainClass.main(MainClass.java:25)

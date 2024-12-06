@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="timable-output1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp4_1_public/jars/timable-output.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

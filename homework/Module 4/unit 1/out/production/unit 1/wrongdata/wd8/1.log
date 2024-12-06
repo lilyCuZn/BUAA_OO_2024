@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.NullPointerException
+	at Library.tryBorrow(Library.java:61)
+	at Library.dealWithRequest(Library.java:48)
+	at MainClass.main(MainClass.java:22)

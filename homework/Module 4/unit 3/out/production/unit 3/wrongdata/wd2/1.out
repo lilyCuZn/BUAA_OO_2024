@@ -1,0 +1,116 @@
+0
+0
+0
+[2024-01-08] 22370005 10
+[2024-01-08] [accept] 22370043 donated BU-0678
+[2024-01-08] [accept] 22370043 ordered B-4183
+[2024-01-08] [reject] 22370005 ordered B-7761
+[2024-01-08] [accept] 22370005 borrowed B-7176
+[2024-01-08] [accept] 22370005 donated CU-3907
+[2024-01-08] [reject] 22370043 picked B-4183
+[2024-01-08] [reject] 22370043 ordered B-7176
+1
+[2024-01-08] move B-4183 from bs to ao for 22370043
+0
+0
+1
+[2024-01-17] move B-4183 from ao to bs
+[2024-01-17] [accept] 22370005 borrowed C-2733
+0
+0
+[2024-01-22] 22370043 9
+0
+0
+[2024-01-26] [reject] 22370043 picked B-4183
+[2024-01-26] 22370043 9
+[2024-01-26] [accept] 22370043 ordered B-7176
+[2024-01-26] [reject] 22370043 picked B-4183
+[2024-01-26] [reject] 22370005 ordered B-7176
+1
+[2024-01-26] move B-7176 from bs to ao for 22370043
+0
+[2024-01-30] [reject] 22370005 renewed B-7176
+[2024-01-30] [reject] 22370043 ordered B-4183
+[2024-01-30] [accept] 22370005 returned B-7176 not overdue
+1
+[2024-01-30] move B-7176 from bro to bs
+1
+[2024-02-02] move B-7176 from ao to bs
+[2024-02-02] [accept] 22370043 donated BU-9018
+[2024-02-02] [accept] 22370005 donated BU-9615
+[2024-02-02] [reject] 22370005 ordered BU-0678
+[2024-02-02] [accept] 22370043 donated CU-0504
+0
+0
+[2024-02-06] [accept] 22370005 borrowed B-7176
+[2024-02-06] [reject] 22370005 borrowed B-4183
+[2024-02-06] [reject] 22370005 borrowed B-4183
+[2024-02-06] [accept] 22370005 returned B-7176 not overdue
+[2024-02-06] [accept] 22370005 borrowed B-4183
+3
+[2024-02-06] move B-7176 from bro to bs
+[2024-02-06] move B-4183 from bro to bs
+[2024-02-06] move B-4183 from bro to bs
+0
+[2024-02-07] [reject] 22370005 renewed C-2733
+[2024-02-07] [reject] 22370043 picked B-4183
+[2024-02-07] [accept] 22370005 returned C-2733 not overdue
+[2024-02-07] [reject] 22370043 picked B-4183
+1
+[2024-02-07] move C-2733 from bro to bs
+0
+0
+0
+[2024-02-11] [reject] 22370005 renewed B-4183
+[2024-02-11] [accept] 22370005 returned B-4183 not overdue
+[2024-02-11] [reject] 22370043 picked B-4183
+1
+[2024-02-11] move B-4183 from bro to bs
+0
+[2024-02-12] [accept] 22370005 ordered B-4183
+1
+[2024-02-12] move B-4183 from bs to ao for 22370005
+0
+[2024-02-15] 22370043 10
+[2024-02-15] [reject] 22370043 picked B-4183
+[2024-02-15] 22370043 10
+[2024-02-15] [accept] 22370005 donated BU-4936
+[2024-02-15] [accept] 22370043 donated CU-0150
+0
+1
+[2024-02-18] move B-4183 from ao to bs
+[2024-02-18] [reject] 22370043 picked B-4183
+[2024-02-18] [reject] 22370005 picked B-4183
+[2024-02-18] [reject] 22370043 picked B-7176
+0
+0
+[2024-02-20] 22370005 11
+0
+0
+[2024-02-25] [reject] 22370043 picked B-7176
+[2024-02-25] [reject] 22370043 picked B-4183
+0
+0
+0
+0
+[2024-03-03] 22370043 12
+[2024-03-03] 22370043 12
+0
+0
+[2024-03-06] [accept] 22370005 borrowed C-9421
+0
+0
+[2024-03-07] [accept] 22370005 borrowed B-4183
+[2024-03-07] [reject] 22370043 picked B-4183
+[2024-03-07] [reject] 22370005 picked B-4183
+[2024-03-07] [reject] 22370005 picked B-4183
+[2024-03-07] BU-0678 1
+[2024-03-07] 22370043 12
+[2024-03-07] 22370043 12
+[2024-03-07] B-7761 3
+[2024-03-07] B-4183 7
+[2024-03-07] 22370005 9
+[2024-03-07] C-9421 7
+[2024-03-07] [reject] 22370005 renewed C-9421
+[2024-03-07] [reject] 22370005 picked B-4183
+0

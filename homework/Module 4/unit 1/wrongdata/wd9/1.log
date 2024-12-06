@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.NullPointerException
+	at Library.manageAppointmentOffice(Library.java:160)
+	at Library.manage(Library.java:31)
+	at MainClass.main(MainClass.java:21)

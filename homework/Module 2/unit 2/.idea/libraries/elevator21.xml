@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="elevator21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/elevator2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

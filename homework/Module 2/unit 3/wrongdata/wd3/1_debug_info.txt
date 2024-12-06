@@ -1,0 +1,1 @@
+error in [  31.3310]ARRIVE-6-6-B: can't move before receiving any person

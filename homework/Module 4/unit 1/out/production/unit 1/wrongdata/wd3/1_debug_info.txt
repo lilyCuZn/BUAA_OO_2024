@@ -1,0 +1,1 @@
+error in output '[2024-01-08] [accept] 22370144 borrowed C-4190' after input '[2024-01-08] 22370144 borrowed C-4190': can't borrow, book C-4190 isn't on the shelf

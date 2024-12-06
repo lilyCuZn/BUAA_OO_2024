@@ -1,0 +1,1 @@
+error in [  15.3800]RECEIVE-1-3: can't RECEIVE twice for person 1

@@ -1,0 +1,152 @@
+1,149c1
+< 0
+< [2024-01-05] B-6076 10
+< 0
+< 0
+< [2024-01-08] [accept] 22370073 ordered C-4116
+< [2024-01-08] [reject] 22370171 borrowed A-3229
+< 1
+< [2024-01-08] move C-4116 from bs to ao for 22370073
+< 0
+< [2024-01-11] [accept] 22370073 borrowed B-6076
+< [2024-01-11] C-4116 9
+< 0
+< 1
+< [2024-01-16] move C-4116 from ao to bs
+< [2024-01-16] B-6076 9
+< [2024-01-16] [accept] 22370147 ordered B-6076
+< 1
+< [2024-01-16] move B-6076 from bs to ao for 22370147
+< 0
+< [2024-01-20] A-3229 5
+< [2024-01-20] C-4116 10
+< [2024-01-20] C-4116 10
+< 0
+< 1
+< [2024-01-23] move B-6076 from ao to bs
+< [2024-01-23] [reject] 22370147 borrowed A-3229
+< [2024-01-23] [accept] 22370127 borrowed C-4116
+< 0
+< 0
+< [2024-01-28] C-4116 9
+< [2024-01-28] [accept] 22370177 ordered C-4116
+< [2024-01-28] [accept] 22370147 borrowed B-6076
+< [2024-01-28] [accept] 22370177 ordered C-4116
+< 2
+< [2024-01-28] move C-4116 from bs to ao for 22370177
+< [2024-01-28] move C-4116 from bs to ao for 22370177
+< 0
+< 0
+< 2
+< [2024-02-05] move C-4116 from ao to bs
+< [2024-02-05] move C-4116 from ao to bs
+< [2024-02-05] [accept] 22370171 borrowed B-6076
+< 0
+< 0
+< [2024-02-06] [accept] 22370147 returned B-6076
+< [2024-02-06] C-4116 9
+< 1
+< [2024-02-06] move B-6076 from bro to bs
+< 0
+< 0
+< 0
+< [2024-02-12] [reject] 22370171 ordered A-3229
+< [2024-02-12] [accept] 22370120 ordered B-6076
+< 1
+< [2024-02-12] move B-6076 from bs to ao for 22370120
+< 0
+< [2024-02-13] B-6076 7
+< [2024-02-13] A-3229 5
+< [2024-02-13] [reject] 22370171 borrowed A-3229
+< [2024-02-13] C-4116 9
+< [2024-02-13] [reject] 22370073 borrowed A-3229
+< [2024-02-13] [reject] 22370171 borrowed B-6076
+< [2024-02-13] [reject] 22370171 ordered A-3229
+< [2024-02-13] [reject] 22370177 picked C-4116
+< 1
+< [2024-02-13] move B-6076 from bro to bs
+< 0
+< [2024-02-17] [reject] 22370073 picked C-4116
+< 0
+< 1
+< [2024-02-19] move B-6076 from ao to bs
+< [2024-02-19] [accept] 22370146 borrowed B-6076
+< 0
+< 0
+< [2024-02-21] [accept] 22370177 borrowed C-4116
+< [2024-02-21] [reject] 22370073 borrowed B-6076
+< [2024-02-21] [reject] 22370177 picked C-4116
+< [2024-02-21] [accept] 22370069 borrowed B-6076
+< 1
+< [2024-02-21] move B-6076 from bro to bs
+< 0
+< [2024-02-24] [accept] 22370127 returned C-4116
+< [2024-02-24] A-3229 5
+< 1
+< [2024-02-24] move C-4116 from bro to bs
+< 0
+< 0
+< 0
+< [2024-02-28] C-4116 9
+< [2024-02-28] [accept] 22370147 ordered B-6076
+< [2024-02-28] [reject] 22370177 ordered C-4116
+< [2024-02-28] [accept] 22370177 returned C-4116
+< [2024-02-28] C-4116 9
+< 2
+< [2024-02-28] move C-4116 from bro to bs
+< [2024-02-28] move B-6076 from bs to ao for 22370147
+< 0
+< [2024-03-02] C-4116 10
+< [2024-03-02] A-3229 5
+< 0
+< 1
+< [2024-03-05] move B-6076 from ao to bs
+< [2024-03-05] A-3229 5
+< [2024-03-05] [reject] 22370146 borrowed B-6076
+< [2024-03-05] [accept] 22370120 ordered B-6076
+< [2024-03-05] [accept] 22370069 returned B-6076
+< [2024-03-05] [reject] 22370146 borrowed B-6076
+< 2
+< [2024-03-05] move B-6076 from bro to bs
+< [2024-03-05] move B-6076 from bs to ao for 22370120
+< 0
+< 0
+< 1
+< [2024-03-14] move B-6076 from ao to bs
+< [2024-03-14] [reject] 22370073 borrowed B-6076
+< [2024-03-14] [reject] 22370177 picked C-4116
+< [2024-03-14] [accept] 22370073 returned B-6076
+< [2024-03-14] [accept] 22370171 returned B-6076
+< [2024-03-14] A-3229 5
+< [2024-03-14] [accept] 22370147 ordered C-4116
+< [2024-03-14] [accept] 22370146 borrowed C-4116
+< [2024-03-14] [accept] 22370147 borrowed C-4116
+< 2
+< [2024-03-14] move B-6076 from bro to bs
+< [2024-03-14] move C-4116 from bs to ao for 22370147
+< 0
+< [2024-03-17] [reject] 22370177 picked C-4116
+< [2024-03-17] [reject] 22370146 borrowed B-6076
+< 1
+< [2024-03-17] move B-6076 from bro to bs
+< 1
+< [2024-03-22] move C-4116 from ao to bs
+< 0
+< 0
+< [2024-03-27] [reject] 22370073 picked C-4116
+< 0
+< 0
+< [2024-03-29] [reject] 22370177 ordered A-3229
+< 0
+< 0
+< [2024-04-03] [reject] 22370171 borrowed A-3229
+< 0
+< 0
+< [2024-04-04] [reject] 22370120 picked B-6076
+< [2024-04-04] [accept] 22370069 ordered B-6076
+< [2024-04-04] [accept] 22370177 borrowed B-6076
+< [2024-04-04] [accept] 22370171 borrowed C-4116
+< 1
+< [2024-04-04] move B-6076 from bs to ao for 22370069
+---
+> no std out for unit4

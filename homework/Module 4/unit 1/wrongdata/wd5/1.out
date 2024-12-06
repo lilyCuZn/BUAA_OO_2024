@@ -1,0 +1,209 @@
+0
+0
+0
+0
+0
+[2024-01-10] C-4727 3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[2024-01-25] [accept] 22370084 borrowed B-0374
+[2024-01-25] B-0374 2
+0
+0
+[2024-01-30] [reject] 22370022 borrowed A-9786
+0
+0
+[2024-02-04] [accept] 22370084 ordered C-4727
+[2024-02-04] [reject] 22370084 picked C-4727
+1
+[2024-02-04] move C-4727 from bs to ao for 22370084
+0
+0
+1
+[2024-02-11] move C-4727 from ao to bs
+0
+0
+[2024-02-14] B-0374 2
+[2024-02-14] [accept] 22370022 ordered C-4727
+[2024-02-14] [accept] 22370022 borrowed C-2056
+[2024-02-14] [reject] 22370084 picked C-4727
+[2024-02-14] [reject] 22370022 picked C-4727
+[2024-02-14] [reject] 22370022 borrowed C-2056
+[2024-02-14] B-0374 2
+[2024-02-14] [reject] 22370084 picked C-4727
+2
+[2024-02-14] move C-2056 from bro to bs
+[2024-02-14] move C-4727 from bs to ao for 22370022
+0
+[2024-02-17] [accept] 22370022 returned C-2056
+1
+[2024-02-17] move C-2056 from bro to bs
+0
+[2024-02-19] [reject] 22370084 picked C-4727
+[2024-02-19] [accept] 22370022 borrowed C-4727
+[2024-02-19] [accept] 22370022 ordered B-0374
+[2024-02-19] [reject] 22370022 picked C-4727
+1
+[2024-02-19] move B-0374 from bs to ao for 22370022
+1
+[2024-02-24] move C-4727 from ao to bs
+[2024-02-24] [accept] 22370022 returned C-4727
+[2024-02-24] A-9786 5
+[2024-02-24] [accept] 22370022 ordered B-0374
+[2024-02-24] [accept] 22370084 returned B-0374
+3
+[2024-02-24] move C-4727 from bro to bs
+[2024-02-24] move B-0374 from bro to bs
+[2024-02-24] move B-0374 from bs to ao for 22370022
+1
+[2024-02-26] move B-0374 from ao to bs
+[2024-02-26] B-0374 2
+[2024-02-26] [accept] 22370084 ordered C-2056
+[2024-02-26] [accept] 22370084 ordered C-2056
+[2024-02-26] C-2056 3
+2
+[2024-02-26] move C-2056 from bs to ao for 22370084
+[2024-02-26] move C-2056 from bs to ao for 22370084
+0
+0
+0
+[2024-02-29] [accept] 22370022 borrowed C-2056
+[2024-02-29] [accept] 22370022 picked B-0374
+[2024-02-29] [reject] 22370022 picked B-0374
+[2024-02-29] C-4727 3
+0
+0
+[2024-03-02] [reject] 22370084 picked C-4727
+[2024-03-02] [reject] 22370022 ordered A-9786
+[2024-03-02] [reject] 22370022 picked B-0374
+[2024-03-02] [accept] 22370084 ordered B-0374
+[2024-03-02] [reject] 22370022 borrowed A-9786
+1
+[2024-03-02] move B-0374 from bs to ao for 22370084
+2
+[2024-03-07] move C-2056 from ao to bs
+[2024-03-07] move C-2056 from ao to bs
+[2024-03-07] C-4727 3
+[2024-03-07] [accept] 22370022 returned C-2056
+1
+[2024-03-07] move C-2056 from bro to bs
+1
+[2024-03-08] move B-0374 from ao to bs
+0
+0
+[2024-03-12] [reject] 22370022 picked C-4727
+0
+0
+[2024-03-17] [accept] 22370084 ordered B-0374
+[2024-03-17] [accept] 22370022 returned B-0374
+[2024-03-17] [accept] 22370084 borrowed C-2056
+[2024-03-17] [accept] 22370022 borrowed C-9089
+[2024-03-17] [accept] 22370022 borrowed B-0374
+[2024-03-17] [accept] 22370084 returned C-2056
+[2024-03-17] [reject] 22370022 picked C-4727
+[2024-03-17] [accept] 22370022 returned B-0374
+[2024-03-17] [reject] 22370084 picked C-4727
+[2024-03-17] [accept] 22370084 ordered C-2056
+[2024-03-17] [accept] 22370022 returned C-9089
+[2024-03-17] C-9089 2
+[2024-03-17] [accept] 22370084 borrowed B-0374
+[2024-03-17] [reject] 22370084 picked C-2056
+[2024-03-17] [reject] 22370022 borrowed A-9786
+[2024-03-17] [accept] 22370022 ordered C-9089
+6
+[2024-03-17] move C-2056 from bro to bs
+[2024-03-17] move B-0374 from bro to bs
+[2024-03-17] move C-9089 from bro to bs
+[2024-03-17] move B-0374 from bs to ao for 22370084
+[2024-03-17] move C-2056 from bs to ao for 22370084
+[2024-03-17] move C-9089 from bs to ao for 22370022
+0
+[2024-03-18] [accept] 22370022 ordered C-2056
+1
+[2024-03-18] move C-2056 from bs to ao for 22370022
+0
+[2024-03-20] C-2056 1
+[2024-03-20] [reject] 22370022 picked C-4727
+[2024-03-20] [reject] 22370084 ordered A-9786
+[2024-03-20] [reject] 22370022 borrowed A-9786
+[2024-03-20] B-0374 1
+[2024-03-20] [accept] 22370022 borrowed B-0374
+[2024-03-20] [accept] 22370084 borrowed C-9089
+[2024-03-20] B-0374 0
+[2024-03-20] C-4727 3
+[2024-03-20] [reject] 22370084 ordered C-9089
+0
+0
+[2024-03-22] A-9786 5
+[2024-03-22] [accept] 22370022 picked C-9089
+[2024-03-22] [accept] 22370084 returned B-0374
+1
+[2024-03-22] move B-0374 from bro to bs
+3
+[2024-03-27] move B-0374 from ao to bs
+[2024-03-27] move C-2056 from ao to bs
+[2024-03-27] move C-2056 from ao to bs
+[2024-03-27] C-2056 3
+0
+0
+[2024-03-30] [accept] 22370084 borrowed B-0374
+[2024-03-30] A-9786 5
+[2024-03-30] [reject] 22370022 picked C-2056
+[2024-03-30] [accept] 22370084 returned B-0374
+1
+[2024-03-30] move B-0374 from bro to bs
+0
+[2024-04-02] [reject] 22370022 ordered C-9089
+[2024-04-02] [accept] 22370084 returned C-9089
+1
+[2024-04-02] move C-9089 from bro to bs
+0
+[2024-04-04] [accept] 22370022 returned B-0374
+[2024-04-04] [reject] 22370084 ordered A-9786
+[2024-04-04] A-9786 5
+[2024-04-04] [reject] 22370084 picked C-2056
+1
+[2024-04-04] move B-0374 from bro to bs
+0
+0
+0
+[2024-04-07] [reject] 22370022 picked C-4727
+0
+0
+[2024-04-09] C-9089 2
+[2024-04-09] [accept] 22370022 borrowed B-0374
+0
+0
+[2024-04-10] C-4727 3
+0
+0
+0
+0
+0
+0
+[2024-04-18] [reject] 22370022 ordered A-9786
+[2024-04-18] A-9786 5
+0
+0
+[2024-04-22] [reject] 22370084 ordered A-9786
+[2024-04-22] [reject] 22370022 picked C-4727
+[2024-04-22] C-2056 3
+[2024-04-22] [accept] 22370022 returned B-0374
+[2024-04-22] [accept] 22370022 borrowed C-2056
+[2024-04-22] [accept] 22370084 ordered C-9089
+[2024-04-22] [accept] 22370084 borrowed C-4727
+[2024-04-22] [accept] 22370084 returned C-4727
+[2024-04-22] [accept] 22370084 borrowed C-9089
+[2024-04-22] C-4727 2
+3
+[2024-04-22] move C-4727 from bro to bs
+[2024-04-22] move B-0374 from bro to bs
+[2024-04-22] move C-9089 from bs to ao for 22370084

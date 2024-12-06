@@ -1,0 +1,102 @@
+0
+[2024-01-03] [reject] 22370123 borrowed A-4530
+[2024-01-03] [accept] 22370123 ordered B-9629
+[2024-01-03] [reject] 22370123 picked B-9629
+1
+[2024-01-03] move B-9629 from bs to ao for 22370123
+0
+[2024-01-05] A-9259 6
+[2024-01-05] [accept] 22370123 borrowed B-9599
+0
+0
+[2024-01-07] B-0398 6
+0
+1
+[2024-01-11] move B-9629 from ao to bs
+0
+0
+0
+0
+[2024-01-19] [accept] 22370131 borrowed C-4308
+[2024-01-19] [reject] 22370123 picked B-9629
+0
+0
+[2024-01-20] [accept] 22370087 borrowed B-9599
+[2024-01-20] [reject] 22370131 borrowed A-4530
+[2024-01-20] [accept] 22370131 returned C-4308
+[2024-01-20] [accept] 22370131 borrowed C-4308
+[2024-01-20] [reject] 22370131 borrowed A-9259
+[2024-01-20] B-9629 5
+[2024-01-20] [accept] 22370131 returned C-4308
+[2024-01-20] B-9629 5
+1
+[2024-01-20] move C-4308 from bro to bs
+0
+[2024-01-23] [accept] 22370131 ordered B-9629
+1
+[2024-01-23] move B-9629 from bs to ao for 22370131
+0
+0
+1
+[2024-01-31] move B-9629 from ao to bs
+[2024-01-31] [accept] 22370131 borrowed B-9629
+[2024-01-31] [reject] 22370087 ordered B-9599
+0
+0
+[2024-02-02] [accept] 22370123 returned B-9599
+1
+[2024-02-02] move B-9599 from bro to bs
+0
+[2024-02-06] [reject] 22370087 borrowed B-9599
+[2024-02-06] [accept] 22370131 returned B-9629
+[2024-02-06] A-9259 6
+2
+[2024-02-06] move B-9629 from bro to bs
+[2024-02-06] move B-9599 from bro to bs
+0
+[2024-02-09] [reject] 22370123 picked B-9629
+[2024-02-09] [accept] 22370123 ordered B-9599
+[2024-02-09] [reject] 22370087 borrowed B-9629
+[2024-02-09] A-9259 6
+2
+[2024-02-09] move B-9599 from bs to ao for 22370123
+[2024-02-09] move B-9629 from bro to bs
+0
+[2024-02-13] [reject] 22370123 ordered A-9259
+[2024-02-13] [reject] 22370123 picked B-9629
+[2024-02-13] [reject] 22370131 picked B-9629
+[2024-02-13] A-4530 10
+[2024-02-13] [reject] 22370123 ordered A-9259
+[2024-02-13] [reject] 22370087 ordered A-9259
+0
+1
+[2024-02-18] move B-9599 from ao to bs
+[2024-02-18] [reject] 22370123 borrowed A-4530
+0
+0
+0
+0
+[2024-02-28] B-9629 5
+[2024-02-28] [reject] 22370123 borrowed A-4530
+[2024-02-28] B-0398 6
+[2024-02-28] [reject] 22370123 picked B-9599
+[2024-02-28] A-9259 6
+[2024-02-28] [reject] 22370123 borrowed A-9259
+[2024-02-28] [reject] 22370123 picked B-9629
+[2024-02-28] [reject] 22370131 picked B-9629
+[2024-02-28] [reject] 22370123 picked B-9599
+0
+0
+[2024-03-02] [reject] 22370087 borrowed B-0398
+[2024-03-02] [reject] 22370087 ordered A-4530
+[2024-03-02] [accept] 22370087 ordered C-4308
+[2024-03-02] [accept] 22370087 returned B-9599
+3
+[2024-03-02] move C-4308 from bs to ao for 22370087
+[2024-03-02] move B-0398 from bro to bs
+[2024-03-02] move B-9599 from bro to bs
+0
+[2024-03-06] B-9599 10
+[2024-03-06] [accept] 22370131 ordered B-9599
+1
+[2024-03-06] move B-9599 from bs to ao for 22370131

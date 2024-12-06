@@ -24,11 +24,11 @@
 
 2.Distributor线程启动6个Elevator线程，并接受request把它们按照指定电梯序号分配给指定电梯。
 
-![M2-U1-时序图](D:\CuZn's\oo-面向对象\homework\Module 2\module2总结\M2-U1-时序图.jpg)
+![M2-U1-时序图](M2-U1-时序图.jpg)
 
 UML类图如下：
 
-![M2-U1-UML](D:\CuZn's\oo-面向对象\homework\Module 2\module2总结\M2-U1-UML.png)
+![M2-U1-UML](M2-U1-UML.png)
 
 #### 同步块的设置与锁的选择
 
@@ -140,7 +140,7 @@ public synchronized void addRequest(Person person) {
 
 在我们的作业中，可以设计一个InputThread输入线程作为生产者类，不断从输入流里得到乘客请求personRequest，并把它们放进请求池requestPool里；同时Distributor类作为消费者，不断试图从requestPool里取出乘客请求，把它分配给各个电梯。
 
-![](D:\CuZn's\oo-面向对象\homework\Module 2\module2总结\生产者-消费者.png)
+![](生产者-消费者.png)
 
 ````java
 //inputThread中：
@@ -327,7 +327,7 @@ while (true) {
 
 ### 时序图
 
-![img](file:///C:/Users/CuZn/Downloads/oo-M2-U1-时序图.jpg)
+![img](M2-U2-时序图.jpg)
 
 ## Unit 3
 

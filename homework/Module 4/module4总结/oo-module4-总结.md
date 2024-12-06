@@ -16,7 +16,7 @@
 
 ### 类图
 
-![img](https://img-blog.csdnimg.cn/20210622173546632.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjM5OTU2Nw==,size_16,color_FFFFFF,t_70#pic_center)
+![img](图片1.jpg)
 
 UML类图中表示可见性的符号有3种：
 + ：表示public
@@ -48,7 +48,7 @@ UML 中的类图有以下几种关系：**依赖关系、关联关系、聚合�
 
 乍一看很像我在unit2给自己画的时序图hhh，但没想到不像电梯单元那样严格按时间顺序运行的程序也能画时序图。
 
-![image-20240611162945187](C:\Users\CuZn\AppData\Roaming\Typora\typora-user-images\image-20240611162945187.png)
+![image-20240611162945187](总结图片2.png)
 
 **生命线(LifeLine)**
 时序图中每个对象和底部中心都有一条垂直的虚线，这就是对象的生命线(对象的时间线)。以一条垂直的虚线表示。
@@ -76,7 +76,7 @@ UML 中的类图有以下几种关系：**依赖关系、关联关系、聚合�
 
 总架构设计以Library类为主要功能类：
 
-![image-20240611163933604](C:\Users\CuZn\AppData\Roaming\Typora\typora-user-images\image-20240611163933604.png)
+![image-20240611163933604](总结图片3.png)
 
 其中包含了try各种功能的方法。事实上，我感觉这样的设计会让library类太长了、、但是确实时间紧任务重，再加上预约处、借还处等各个类需要共享的信息还挺多的，所以也没有改这样的架构。
 

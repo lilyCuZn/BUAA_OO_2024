@@ -1,0 +1,100 @@
+1,97c1
+< 0
+< 0
+< 0
+< [2024-01-10] [accept] 22370110 donated BU-9460
+< 0
+< 0
+< 0
+< 0
+< [2024-01-12] A-0770 3
+< 0
+< 0
+< [2024-01-13] [accept] 22370066 borrowed C-2417
+< [2024-01-13] [accept] 22370110 ordered C-2417
+< 1
+< [2024-01-13] move C-2417 from bs to ao for 22370110
+< 0
+< [2024-01-14] [accept] 22370110 picked C-2417
+< [2024-01-14] C-2417 7
+< 0
+< 0
+< 0
+< 0
+< [2024-01-17] [accept] 22370110 donated BU-6484
+< [2024-01-17] [accept] 22370066 renewed C-2417
+< [2024-01-17] C-1076 3
+< 0
+< 0
+< [2024-01-20] [accept] 22370085 ordered C-1076
+< 1
+< [2024-01-20] move C-1076 from bs to ao for 22370085
+< 0
+< [2024-01-25] [reject] 22370110 renewed C-2417
+< [2024-01-25] [accept] 22370085 donated AU-1337
+< [2024-01-25] C-2417 7
+< [2024-01-25] [reject] 22370110 borrowed C-2417
+< [2024-01-25] [accept] 22370085 picked C-1076
+< [2024-01-25] [accept] 22370085 returned C-1076 overdue
+< [2024-01-25] C-2417 6
+< 2
+< [2024-01-25] move C-2417 from bro to bs
+< [2024-01-25] move C-1076 from bro to bs
+< 0
+< 0
+< 0
+< 0
+< 0
+< [2024-02-01] [accept] 22370085 ordered C-1076
+< [2024-02-01] [reject] 22370110 ordered A-0770
+< [2024-02-01] A-0770 3
+< [2024-02-01] [accept] 22370066 returned C-2417 not overdue
+< [2024-02-01] [reject] 22370066 ordered AU-1337
+< [2024-02-01] [accept] 22370066 borrowed C-2417
+< [2024-02-01] [accept] 22370085 borrowed C-2417
+< [2024-02-01] BU-9460 1
+< [2024-02-01] [accept] 22370110 returned C-2417 overdue
+< [2024-02-01] [reject] 22370066 ordered C-2417
+< 3
+< [2024-02-01] move C-1076 from bs to ao for 22370085
+< [2024-02-01] move C-2417 from bro to bs
+< [2024-02-01] move C-2417 from bro to bs
+< 0
+< [2024-02-03] [accept] 22370085 returned C-2417 not overdue
+< [2024-02-03] [reject] 22370066 ordered A-0770
+< [2024-02-03] [accept] 22370066 returned C-2417 not overdue
+< 2
+< [2024-02-03] move C-2417 from bro to bs
+< [2024-02-03] move C-2417 from bro to bs
+< 1
+< [2024-02-08] move C-1076 from ao to bs
+< 0
+< 0
+< 0
+< 0
+< [2024-02-16] [accept] 22370066 donated BU-9939
+< 0
+< 0
+< [2024-02-20] [reject] 22370085 picked C-1076
+< 0
+< 0
+< [2024-02-22] C-1076 3
+< 0
+< 0
+< [2024-02-24] [accept] 22370066 ordered C-1076
+< 1
+< [2024-02-24] move C-1076 from bs to ao for 22370066
+< 0
+< 0
+< 0
+< [2024-02-29] C-2417 9
+< [2024-02-29] [reject] 22370085 ordered A-0770
+< 0
+< 1
+< [2024-03-04] move C-1076 from ao to bs
+< [2024-03-04] [accept] 22370066 donated CU-8956
+< [2024-03-04] [accept] 22370110 borrowed C-2417
+< [2024-03-04] [accept] 22370066 donated BU-9306
+< 0
+---
+> no std out for unit4

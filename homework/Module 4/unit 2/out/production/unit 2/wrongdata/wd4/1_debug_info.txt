@@ -1,0 +1,1 @@
+error in output '[2024-03-09] [reject] 22370033 renewed B-4207' after input '[2024-03-09] 22370033 renewed B-4207': the book should be allowed to renew in (2024-03-04, 2024-03-09]

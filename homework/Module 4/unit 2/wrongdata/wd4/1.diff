@@ -1,0 +1,196 @@
+1,193c1
+< 0
+< [2024-01-06] [reject] 22370135 borrowed A-2266
+< [2024-01-06] [accept] 22370107 donated AU-3524
+< [2024-01-06] [accept] 22370022 ordered C-3417
+< 1
+< [2024-01-06] move C-3417 from bs to ao for 22370022
+< 0
+< 0
+< 1
+< [2024-01-14] move C-3417 from ao to bs
+< [2024-01-14] [accept] 22370135 donated CU-8753
+< [2024-01-14] [accept] 22370107 borrowed B-0209
+< 0
+< 0
+< [2024-01-15] B-0209 5
+< 0
+< 0
+< [2024-01-20] C-6392 10
+< 0
+< 0
+< [2024-01-25] [accept] 22370107 donated AU-5759
+< [2024-01-25] A-2266 10
+< [2024-01-25] [accept] 22370104 ordered C-3417
+< 1
+< [2024-01-25] move C-3417 from bs to ao for 22370104
+< 0
+< [2024-01-30] [accept] 22370107 returned B-0209 not overdue
+< [2024-01-30] [reject] 22370104 ordered A-2266
+< [2024-01-30] [accept] 22370135 donated BU-7016
+< 1
+< [2024-01-30] move B-0209 from bro to bs
+< 1
+< [2024-02-04] move C-3417 from ao to bs
+< [2024-02-04] [accept] 22370022 ordered C-1561
+< [2024-02-04] [accept] 22370033 donated BU-6863
+< [2024-02-04] A-2266 10
+< [2024-02-04] [accept] 22370033 ordered B-4207
+< [2024-02-04] [accept] 22370107 ordered C-1561
+< 3
+< [2024-02-04] move C-1561 from bs to ao for 22370022
+< [2024-02-04] move B-4207 from bs to ao for 22370033
+< [2024-02-04] move C-1561 from bs to ao for 22370107
+< 0
+< [2024-02-06] [accept] 22370033 borrowed C-3417
+< [2024-02-06] [reject] 22370104 picked C-3417
+< 0
+< 0
+< [2024-02-08] [accept] 22370104 borrowed C-3417
+< [2024-02-08] [accept] 22370135 ordered B-0209
+< [2024-02-08] [accept] 22370033 picked B-4207
+< 1
+< [2024-02-08] move B-0209 from bs to ao for 22370135
+< 2
+< [2024-02-11] move C-1561 from ao to bs
+< [2024-02-11] move C-1561 from ao to bs
+< [2024-02-11] [accept] 22370107 borrowed B-4207
+< [2024-02-11] [accept] 22370107 returned B-4207 not overdue
+< [2024-02-11] [accept] 22370022 ordered C-1561
+< [2024-02-11] [accept] 22370033 donated BU-0102
+< 2
+< [2024-02-11] move C-1561 from bs to ao for 22370022
+< [2024-02-11] move B-4207 from bro to bs
+< 0
+< [2024-02-13] A-9442 8
+< [2024-02-13] [accept] 22370022 ordered C-6392
+< [2024-02-13] [accept] 22370135 picked B-0209
+< [2024-02-13] [reject] 22370104 picked C-3417
+< [2024-02-13] [accept] 22370022 picked C-1561
+< [2024-02-13] [accept] 22370107 donated CU-2749
+< [2024-02-13] [reject] 22370135 ordered B-0209
+< [2024-02-13] [reject] 22370135 ordered A-9442
+< [2024-02-13] B-3520 6
+< [2024-02-13] [accept] 22370104 donated AU-0524
+< 1
+< [2024-02-13] move C-6392 from bs to ao for 22370022
+< 0
+< [2024-02-14] [reject] 22370107 picked C-1561
+< [2024-02-14] [reject] 22370033 borrowed B-4207
+< [2024-02-14] [accept] 22370107 ordered C-3417
+< 2
+< [2024-02-14] move C-3417 from bs to ao for 22370107
+< [2024-02-14] move B-4207 from bro to bs
+< 0
+< 0
+< 2
+< [2024-02-23] move C-6392 from ao to bs
+< [2024-02-23] move C-3417 from ao to bs
+< [2024-02-23] [reject] 22370033 ordered A-9442
+< 0
+< 0
+< [2024-02-24] [accept] 22370107 borrowed B-4207
+< [2024-02-24] [reject] 22370107 borrowed A-2266
+< [2024-02-24] [reject] 22370022 renewed C-1561
+< [2024-02-24] C-3417 6
+< [2024-02-24] [accept] 22370104 returned C-3417 not overdue
+< [2024-02-24] [reject] 22370022 renewed C-1561
+< [2024-02-24] [reject] 22370022 picked C-1561
+< [2024-02-24] [accept] 22370107 ordered C-6392
+< [2024-02-24] [reject] 22370033 renewed B-4207
+< [2024-02-24] [reject] 22370107 picked C-1561
+< [2024-02-24] [reject] 22370104 picked C-3417
+< [2024-02-24] [accept] 22370033 returned C-3417 not overdue
+< 3
+< [2024-02-24] move C-6392 from bs to ao for 22370107
+< [2024-02-24] move C-3417 from bro to bs
+< [2024-02-24] move C-3417 from bro to bs
+< 0
+< [2024-02-29] [reject] 22370033 borrowed B-3520
+< [2024-02-29] [accept] 22370107 returned B-4207 not overdue
+< [2024-02-29] [reject] 22370033 renewed B-4207
+< [2024-02-29] [accept] 22370104 borrowed C-3417
+< [2024-02-29] [accept] 22370135 returned B-0209 not overdue
+< 3
+< [2024-02-29] move B-4207 from bro to bs
+< [2024-02-29] move B-3520 from bro to bs
+< [2024-02-29] move B-0209 from bro to bs
+< 1
+< [2024-03-04] move C-6392 from ao to bs
+< [2024-03-04] C-6392 10
+< [2024-03-04] [accept] 22370135 borrowed C-3417
+< [2024-03-04] [accept] 22370135 returned C-3417 not overdue
+< 1
+< [2024-03-04] move C-3417 from bro to bs
+< 0
+< 0
+< 0
+< [2024-03-09] B-0209 6
+< [2024-03-09] [accept] 22370104 donated CU-4094
+< [2024-03-09] [reject] 22370033 renewed B-4207
+< [2024-03-09] [reject] 22370033 renewed B-4207
+< [2024-03-09] [reject] 22370022 picked C-1561
+< [2024-03-09] B-4207 9
+< 0
+< 0
+< 0
+< 0
+< [2024-03-11] [reject] 22370104 renewed C-3417
+< [2024-03-11] [reject] 22370107 picked C-1561
+< [2024-03-11] [accept] 22370033 ordered C-6392
+< [2024-03-11] [reject] 22370104 renewed C-3417
+< [2024-03-11] [accept] 22370033 ordered C-1561
+< [2024-03-11] [reject] 22370022 borrowed C-1561
+< [2024-03-11] [accept] 22370022 ordered C-6392
+< 4
+< [2024-03-11] move C-6392 from bs to ao for 22370033
+< [2024-03-11] move C-1561 from bs to ao for 22370033
+< [2024-03-11] move C-6392 from bs to ao for 22370022
+< [2024-03-11] move C-1561 from bro to bs
+< 0
+< [2024-03-15] B-4207 9
+< [2024-03-15] B-3520 6
+< 0
+< 3
+< [2024-03-17] move C-6392 from ao to bs
+< [2024-03-17] move C-1561 from ao to bs
+< [2024-03-17] move C-6392 from ao to bs
+< 0
+< 0
+< [2024-03-18] [accept] 22370033 ordered C-6392
+< [2024-03-18] C-6392 10
+< [2024-03-18] [accept] 22370135 donated BU-8548
+< [2024-03-18] [reject] 22370022 renewed C-1561
+< [2024-03-18] [accept] 22370135 borrowed C-3417
+< [2024-03-18] [reject] 22370107 ordered A-9442
+< [2024-03-18] [reject] 22370022 renewed C-1561
+< [2024-03-18] [accept] 22370033 returned B-4207 overdue
+< [2024-03-18] BU-7016 1
+< 2
+< [2024-03-18] move C-6392 from bs to ao for 22370033
+< [2024-03-18] move B-4207 from bro to bs
+< 0
+< [2024-03-20] [reject] 22370135 ordered C-3417
+< [2024-03-20] [accept] 22370107 ordered C-1561
+< [2024-03-20] [accept] 22370107 donated CU-4818
+< [2024-03-20] [accept] 22370135 ordered C-1561
+< 2
+< [2024-03-20] move C-1561 from bs to ao for 22370107
+< [2024-03-20] move C-1561 from bs to ao for 22370135
+< 0
+< [2024-03-21] B-4207 10
+< [2024-03-21] [accept] 22370107 ordered B-3520
+< [2024-03-21] [reject] 22370033 picked C-1561
+< 1
+< [2024-03-21] move B-3520 from bs to ao for 22370107
+< 0
+< [2024-03-22] [reject] 22370022 picked C-3417
+< [2024-03-22] [reject] 22370022 ordered C-1561
+< [2024-03-22] [accept] 22370033 donated BU-0989
+< [2024-03-22] [accept] 22370033 borrowed C-1561
+< [2024-03-22] [reject] 22370022 borrowed A-2266
+< [2024-03-22] [accept] 22370033 borrowed C-3417
+< [2024-03-22] [reject] 22370022 renewed C-1561
+< 0
+---
+> no std out for unit4

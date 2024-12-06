@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6821d69c-1bc6-41bf-9eb7-52265732fa93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/out/production/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天枢星/out/production/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天玑星/out/production/天玑星/src/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天璇星/out/production/天璇星/天璇星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/天璇星/天璇星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/开阳星/out/production/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/洞明星/out/production/洞明星/洞明星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/洞明星/洞明星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/玉衡星/out/production/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit 1-互测/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/src_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/src/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天权星/天权星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天枢星/天枢星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/天玑星/天玑星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/artifacts/_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/开阳星/开阳星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/摇光星/摇光星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/artifacts/_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/out/production/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星/玉衡星.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/out/production/玉衡星2/玉衡星2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit2-互测/玉衡星2/玉衡星2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../评测机/.idea/评测机.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Formula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Lexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/Simplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/Simplifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/TokenType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Factor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Term.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Term.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/expr/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/expr/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Term.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Unit 1/out/production/advance/expr/Term.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poly.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Formula.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Formula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Lexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Lexer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/expr/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/expr/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/expr/Term.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/expr/Term.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Module 1/out/production/advance/advance.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dJAJQFHHD5kfktRLjsMBZ6u7Ho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/CuZn's/oo-面向对象/homework/Module 1/Unit 2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6821d69c-1bc6-41bf-9eb7-52265732fa93" name="Changes" comment="" />
+      <created>1709715734952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709715734952</updated>
+      <workItem from="1709715735976" duration="864000" />
+      <workItem from="1709905786677" duration="259000" />
+      <workItem from="1710244764805" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
